@@ -6,4 +6,4 @@ Now is the time to tackle the real-world problem of credit risk. LendingClub off
 
 ## Analysis & Results:
 
-## Recommendations
+## Recommendations:
