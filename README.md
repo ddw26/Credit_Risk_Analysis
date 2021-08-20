@@ -100,4 +100,10 @@ Low Risk Recall Score | 90%
 - ![Easy Ensemble](https://user-images.githubusercontent.com/77905862/130282327-35c4d21e-6749-4fa0-a3ac-9dff94f5153d.png)
 
 
-## Recommendations: 
+# Analysis & Recommendations: 
+
+#### Analysis
+As previously stated in the overview, due to an unbalanced classification inherent to credit risk data, I employed a few oversampling and undersampling models as means to guage which ones were most efficient. In the Random Forest and Ensemble AdaBoost Models the data was resampled in order to prediect the risk level of applicants in our data set. Naive Random Oversampling, SMOTE, Undersampling, and Combined Sampling all resulted in **low precision scores** of 0.01 in the high risk category. As for Balanced Random Forest and Easy Ensemble, the high risk precision scores fared slightly better at **0.04%*
+
+#### Recommendations
+*I do not recommend LendingClub utilize oversampling and undersampling models. For the most efficient/precise models, I recommend Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier.
