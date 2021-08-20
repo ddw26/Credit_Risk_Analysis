@@ -72,13 +72,13 @@ Low Risk Recall Score | 57%
 ### Balanced Random Forest Classifier
 Category | % Results
 ------------ | -------------
-Balanced Accuracy Score | 66.2%
+Balanced Accuracy Score | 82.4%
 Precision Score | 99%
-High Risk Precision score| 1%
+High Risk Precision score| 4%
 Low Risk Precision score | 100%
-Avg Recall Score | 57%
-High Risk Recall Score | 78%
-Low Risk Recall Score | 57%
+Avg Recall Score | 90%
+High Risk Recall Score | 75%
+Low Risk Recall Score | 90%
 
 
 
@@ -87,13 +87,13 @@ Low Risk Recall Score | 57%
 ### Easy Ensemble AdaBoost Classifier
 Category | % Results
 ------------ | -------------
-Balanced Accuracy Score | 66.2%
+Balanced Accuracy Score | 94.6%
 Precision Score | 99%
-High Risk Precision score| 1%
+High Risk Precision score| 4%
 Low Risk Precision score | 100%
-Avg Recall Score | 57%
-High Risk Recall Score | 78%
-Low Risk Recall Score | 57%
+Avg Recall Score | 90%
+High Risk Recall Score | 75%
+Low Risk Recall Score | 90%
 
 
 
