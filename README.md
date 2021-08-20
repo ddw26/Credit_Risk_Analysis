@@ -1,10 +1,10 @@
 # Credit_Risk_Analysis
 
-#### Overview 
+# Overview 
 Now is the time to tackle the real-world problem of credit risk. LendingClub offers peer-to-peer lending services to its customers, and aims to utilize machine learning on existing datasets to determine the risk associated with new applications. Due to the unbalanced classification problem inherent with credit risk, good loans easily outnumber risky loans. Therefore, I am tasked with employing different techniques to train models with unbalanced classes (scikit-learn and imbalanced-learn), evaluating the performance of said models, and offering recommendions on whether the models should be used to predict credit risk.
 
 
-### Analysis & Results: 
+# Analysis & Results: 
 
 **Naive Random Oversampling**
 
@@ -23,4 +23,4 @@ Now is the time to tackle the real-world problem of credit risk. LendingClub off
 ![Over and Under](https://user-images.githubusercontent.com/77905862/130279369-45edfdf9-7a50-4a4b-a4f3-035d1995b58f.png)
 
 
-### Recommendations: 
+# Recommendations: 
