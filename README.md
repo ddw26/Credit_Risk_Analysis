@@ -8,14 +8,13 @@ Now is the time to tackle the real-world problem of credit risk. LendingClub off
 
 ### Naive Random Oversampling
 Type | Score Results
------------- | -------------
-- Balanced accuracy score | 65.3%
-- Precision score | 99%
-- Precision score (high_risk)| 1%
-- Precision score (low_risk)| 100%
-- Recall score (avg / total)| 67%
-- Recall score (high_risk)| 63%
-- Recall score (low_risk)| 67%
+Balanced accuracy score | 65.3%
+Precision score | 99%
+Precision score (high_risk)| 1%
+Precision score (low_risk)| 100%
+Recall score (avg / total)| 67%
+Recall score (high_risk)| 63%
+Recall score (low_risk)| 67%
 
 
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/77905862/130278869-89ad5a41-9538-4155-9e6f-4baa2316425e.png)
